@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm focused on service automation with powershell, mostly Exchange and O365 services
-- 🔭 I’m currently working on udating Polish Timon Translation
+- 🔭 I’m currently working on updating Polish Timon Translation
+- 🔭 I’m currently working on updating Microsoft Learn Organizational Reporting Power BI template
 - 👯 I’m looking to collaborate on translation to polish other interesting PVA bots
 
 <!--
