@@ -1,8 +1,5 @@
 ### Hi there 👋
-I'm focused on service automation with powershell, mostly Exchange and O365 services
-- 🔭 I’m currently working on updating Polish Timon Translation
-- 🔭 I’m currently working on updating Microsoft Learn Organizational Reporting Power BI template
-- 👯 I’m looking to collaborate on translation to polish other interesting PVA bots
+I'm focused on Cloud Security, especially on Microsoft platform, Identity and service automation with Powershell, mostly Exchange and M365 services
 
 <!--
 **ksagala/ksagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
